@@ -1,2 +1,2 @@
-# SQL_PROJECT_1
+# crime analysis in india
 using aggregate functions
